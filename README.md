@@ -71,7 +71,7 @@ statistic_test_project/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <твой-репозиторий>
+git clone https://github.com/artykowserdar/statistic_test_project.git
 cd statistic_test_project
 ```
 
